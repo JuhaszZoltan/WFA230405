@@ -1,0 +1,42 @@
+<<<összefoglalás>>>
+--csharp (+T-SQL)--
+
+a vizsgán lesz:
+- console app 	15/120p
+- form app 		10/120P
+- [a feleletválasztó-teszten: git, clean code, tesztelés, oop, mobil] 9/20p
+
+console app fejlesztése:
+tipusfeladat:
+- adott egy forrásfile, azonos struktúrájú sorokkal
+-> beolvasni, 'mapolni' egy object-list-be
+-> ezzel az adatszerkezettel kell majd tovább dolgoznod
+-> progtételek (vagy linq) alkalmazása
+ami még előjöhet:
+- alprogramok (függvénye, eljárások) írása
+- class-ok tervezése
+- > pl only get propertyk integrálása az osztályba
+- kész kód felhasználása/beillesztése a munkádba
+- file írása, módosítása
+- összetett, de beépülő type-ok (datetime, timespan)
+- nem-alap adatszerkzetek (dictionary, tuple)
+
+form (aka. 'grafikus' vagy GUI alkalmazás(ka) fejlesztése:
+- az alapvető premade control elemek használata és ismeret
+- > textlabel, textinput, dropdown, checkbox, radio button, button, img
+- > spec. controlok: numeric, date, color picker,
+- > adathálós/táblázatos control(ok) (dgv)
+- > control-list-es osztályok/controlok (panel, form, usercontrol)
+- > nav controlok: menu, 
+
+- nugetek használata, nem-alapértelmezett névterek használata
+- adatbázis-kapcsolatért felelős modul átfogó ismerete
+- CRUD adatbázis műveletek használata, alkalmazásba építése
+- eseménykezelők írása
+- futási időben előállított ui elemek/hatások
+- multi-form/usercontrol
+
+- szempont tovább:
+- > exc. handling [kivételkezelés]
+- > CC alkalmazása
+- > UI/UX alapvetések tartása
